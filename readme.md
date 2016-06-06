@@ -17,3 +17,4 @@ var array = str.split("");
 }
 
 pair("GCG");
+ 
